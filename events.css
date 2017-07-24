@@ -1,0 +1,39 @@
+.add-color {
+	color: blue;
+}
+
+.hulkifyit {
+	font-size: 5em;
+	text-align: center;
+}
+
+.captureit {
+	border: 2px solid purple;
+}
+
+.roundit {
+	border-radius: 6px;
+}
+
+article section:nth-child(1) {
+	font-weight: bolder;
+}
+
+article section:last-child {
+	font-weight: bolder;
+	font-style: italic;
+}
+
+button {
+	display: block;
+	margin: 10px;
+}
+
+p.clickedOnText {
+	font-style: italic;
+	font-family: sans-serif;
+}
+
+div#output-target {
+	margin-top: 20px;
+}
